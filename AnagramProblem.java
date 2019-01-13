@@ -18,7 +18,7 @@ public class AnagramProblem {
 
 	public static void main(String[] args) {
 		
-		char[] s1 = {'r','e','s','t','f','u','l'};
+		char[] s1 = {'h','i','b','e','r','n','a'};
 		char[] s2 = {'f','l','t','s','t','e','r'};
 		
 		AnagramProblem anagramProblem = new AnagramProblem();
